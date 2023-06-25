@@ -5,7 +5,5 @@
 
 |Название проекта                              |Описание проекта                                                       |Используемые библиотеки                  |
 |:--------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------:|
-|[Исследование данных сервиса “Яндекс.Музыка”.
-сравнение пользователей двух городов¶]
-(https://github.com/AnnaSmirnovaa/yandex_practicum_DA/tree/main/big_cities_music)|fggrtgsrgfgzfgsbfs|sfgtrgfffffffffffgfgfgfgfgfgfgffgfgfgfgfgfgfgfggffgfgfgfggff|
+|[Исследование данных сервиса “Яндекс.Музыка”.сравнение пользователей двух городов¶](https://github.com/AnnaSmirnovaa/yandex_practicum_DA/tree/main/big_cities_music)|fggrtgsrgfgzfgsbfs|sfgtrgfffffffffffgfgfgfgfgfgfgffgfgfgfgfgfgfgfggffgfgfgfggff|
 
