@@ -11,4 +11,5 @@
 - 7-8 баллов — «нейтралы» (англ. passives);
 - 0-6 баллов — «критики» (англ. detractors).
 ## Используемые библиотеки
+
 Python, SQLAlchemy, PostgreSQL, dash, Tableau
