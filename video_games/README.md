@@ -14,4 +14,5 @@
 - оценка пользователей 
 - рейтинг от организации ESRB 
 ## Используемые библиотеки
+
 Python, Pandas, Seaborn, Matplotlib, NumPy, SciPy
